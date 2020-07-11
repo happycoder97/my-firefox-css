@@ -1,0 +1,7 @@
+/* put suggestions popup on top */
+#urlbar[open]  {
+  opacity: 0.9;
+  margin-top: -332px;
+  margin-left: 10px;
+  height: 300px;
+}
