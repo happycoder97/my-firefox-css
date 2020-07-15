@@ -9,11 +9,11 @@
 :root[uidensity=compact] #urlbar,
 :root[uidensity=compact] .searchbar-textbox {
   font-size: unset !important;
-  min-height: 24px !important;
+  min-height: 22px !important;
 }
 
 :root[uidensity=compact] #identity-box {
-  max-height: 22px;
+  max-height: 20px;
 }
 
 :root[uidensity=compact] #nav-bar .toolbarbutton-1 {
@@ -22,6 +22,6 @@
 
 /* Compatibility with auto-hide.css */
 :root[uidensity=compact] #navigator-toolbox {
-  --nav-bar-height: 31px !important;
+  --nav-bar-height: 28px !important;
 }
 
