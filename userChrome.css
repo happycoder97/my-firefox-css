@@ -5,5 +5,5 @@
 @import "tabs_below_addressbar.css";
 @import "navbar_to_bottom.css";
 
-/* @import "compact_tabs.css"; -- Doesn't seem to be working :/ */
+@import "compact_tabs.css"; 
 /* @import "toolbars_below_content.css"; -- Adds some white bleeding which I find annoying */
