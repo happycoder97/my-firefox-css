@@ -4,7 +4,7 @@
 @import "search_one_offs_padding.css";
 @import "tabs_below_addressbar.css";
 @import "navbar_to_bottom.css";
-@import "autohide_addressbar.css";
+/* @import "autohide_addressbar.css"; */
 
 @import "compact_tabs.css"; 
 /* @import "toolbars_below_content.css"; -- Adds some white bleeding which I find annoying */
